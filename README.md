@@ -1,8 +1,6 @@
 
 ## Exploratory Data Visualization - using matplotlib, seaborn, and altair to explore a dataset
 
-Second Assignment of MUSA 620 Data Wrangling and Data Visualization at University of Pennsylvania
-
 We will be exploring the box score and standing statistics dataset from the NBA (2012-present). The original dataset is posted on https://www.kaggle.com/pablote/nba-enhanced-stats#2012-18_playerBoxScore.csv
 
 ### Making Sense of Data
